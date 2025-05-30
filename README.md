@@ -1,7 +1,7 @@
 ## hello, hello
 👩‍💻 engineering student with an interest in tech<br />
 🏁 small projects/skill builders<br />
-📍 interest in desktop app development<br />
+📍 interest in full stack development<br />
 
 ## about me
 👩‍🍳 self-proclaimed chef/experimental kitchen enthusiast<br />
